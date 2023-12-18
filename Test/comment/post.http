@@ -1,0 +1,8 @@
+POST http://localhost:3000/comment HTTP/1.1
+content-type: application/json
+
+{
+    "id_user": 2,
+    "id_techno": 1,
+    "content": "Y1"
+}
